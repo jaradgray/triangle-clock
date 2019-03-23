@@ -1,2 +1,2 @@
-# triangle-clock
+# Triangle Clock
 Triangle clock face for Android
