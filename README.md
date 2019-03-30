@@ -4,7 +4,7 @@ Triangle Clock is an Android app written in Java using the [libGDX](https://gith
 ![Screenshot](/screenshot.jpg)
 
 ## Installation
-- Download [android/release/triangle-clock.apk](/android/release/triangle-clock.apk)
+- Download [src/android/release/triangle-clock.apk](/src/android/release/triangle-clock.apk)
 - Copy the file to your Android device
 - Install and run the APK
 
